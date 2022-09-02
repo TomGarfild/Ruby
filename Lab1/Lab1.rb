@@ -1,9 +1,9 @@
 print "Enter x:"
-x = Integer(gets.chomp)
+x = Float(gets.chomp)
 print "Enter t:"
-t = Integer(gets.chomp)
+t = Float(gets.chomp)
 print "Enter z:"
-z = Integer(gets.chomp)
+z = Float(gets.chomp)
 
 # In Wolfram Alpha
 # e^tanx^2+sqrt(abs(t-z))/(cos(pi^2)^3 + e^pi*z^2) + 2.3*10^1.6
